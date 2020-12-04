@@ -14,3 +14,5 @@ see the contarct by this address
 
 Both of the contract succesefully exchanged testnet ether and were self-destructed.
 you can see the process in Transactions.
+
+added constructor with parametres
